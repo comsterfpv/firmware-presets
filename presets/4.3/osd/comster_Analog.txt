@@ -1,0 +1,35 @@
+#$ TITLE: Comster - Analog
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: analog nogps
+#$ AUTHOR: Comster
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: I am a RC flight enthusiast.
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_warn_rssi_dbm = ON
+set osd_rssi_alarm = 15
+set osd_rssi_dbm_alarm = -95
+set osd_cap_alarm = 850
+set osd_vbat_pos = 385
+set osd_link_quality_pos = 2104
+set osd_rssi_dbm_pos = 2072
+set osd_tim_2_pos = 2455
+set osd_flymode_pos = 2380
+set osd_anti_gravity_pos = 2369
+set osd_throttle_pos = 2393
+set osd_vtx_channel_pos = 2401
+set osd_ah_pos = 2126
+set osd_current_pos = 2439
+set osd_mah_drawn_pos = 2448
+set osd_craft_name_pos = 33
+set osd_warnings_pos = 14697
+set osd_avg_cell_voltage_pos = 2433
+set osd_nvario_pos = 2265
+set osd_flip_arrow_pos = 321
+set osd_stat_max_spd = OFF
+set osd_stat_min_link_quality = ON
+set osd_stat_min_rssi_dbm = ON
