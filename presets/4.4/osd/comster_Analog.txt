@@ -5,7 +5,20 @@
 #$ KEYWORDS: analog, nogps
 #$ AUTHOR: Comster
 
-#$ DESCRIPTION: I am a RC flight enthusiast.
+#$ DESCRIPTION: Comster HD OSD Settings
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: This OSD setup has the elements I care about most arranged to the sides of the screen.
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: Information
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: Analog OSD setup without GPS.
+#$ DESCRIPTION:
+#$ DESCRIPTION: OSD Setup:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: sample not currently available
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_warn_rssi_dbm = ON

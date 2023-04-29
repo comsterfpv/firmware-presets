@@ -3658,7 +3658,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/comster_Analog.txt",
-      "hash": "91e162d591e83a80cd276cb221f270567cfa47b6b245f324943e842f21ff3a7a",
+      "hash": "3f38737a87541f0d3de0c8d5a130aa4b1844db8dd05508116e64b541572faba9",
       "title": "Comster - Analog",
       "firmware_version": [
         "4.4"
@@ -3674,8 +3674,8 @@
     },
     {
       "fullPath": "presets/4.4/osd/comster_HDZero.txt",
-      "hash": "af50e98a5bf802538e54035294e37cb31891f566fd8bb0f16d4ffe0f83b147e7",
-      "title": "Comster - Analog",
+      "hash": "6014a40a6df067b6a573e6fd634153e8904d14c0fb83c04f98253bf038449859",
+      "title": "Comster - HD",
       "firmware_version": [
         "4.4"
       ],

@@ -1,13 +1,24 @@
-#$ TITLE: Comster - Analog
+#$ TITLE: Comster - HD
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
 #$ KEYWORDS: hd, hdzero, nogps
 #$ AUTHOR: Comster
 
-#$ PARSER: MARKED
-
-#$ DESCRIPTION: I am a RC flight enthusiast.
+#$ DESCRIPTION: Comster HD OSD Settings
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: This OSD setup mimics my Analogue setup, but is rearranged to fit nicely on HDZero whoop board video.
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: Information
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: HDZero HD OSD setup without GPS. You will also need to select "VTX (MSP + Displayport) on the appropriate port in the ports tab.
+#$ DESCRIPTION:
+#$ DESCRIPTION: OSD Setup:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: sample not currently available
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_warn_rssi_dbm = ON
