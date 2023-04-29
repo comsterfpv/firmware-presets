@@ -7,6 +7,7 @@
 *.uvgui.*
 *.swp
 *.save
+*.kate-swp
 .project
 .settings
 .cproject
