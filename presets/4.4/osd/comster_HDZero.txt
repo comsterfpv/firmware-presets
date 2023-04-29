@@ -1,0 +1,47 @@
+#$ TITLE: Comster - Analog
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: OSD
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: hd hdzero nogps
+#$ AUTHOR: Comster
+
+#$ PARSER: MARKED
+
+#$ DESCRIPTION: I am a RC flight enthusiast.
+#$ INCLUDE: presets/4.3/osd/defaults.txt
+
+set osd_warn_rssi_dbm = ON
+set osd_rssi_alarm = 15
+set osd_rssi_dbm_alarm = -95
+set osd_cap_alarm = 850
+set osd_stat_max_spd = OFF
+set osd_stat_min_link_quality = ON
+set osd_stat_min_rssi_dbm = ON
+set osd_vbat_pos = 2533
+set osd_rssi_pos = 193
+set osd_link_quality_pos = 3111
+set osd_rssi_dbm_pos = 3143
+set osd_tim_1_pos = 386
+set osd_tim_2_pos = 3590
+set osd_remaining_time_estimate_pos = 33
+set osd_flymode_pos = 2486
+set osd_throttle_pos = 3494
+set osd_vtx_channel_pos = 32
+set osd_crosshairs_pos = 2253
+set osd_current_pos = 2564
+set osd_mah_drawn_pos = 2539
+set osd_craft_name_pos = 393
+set osd_home_dist_pos = 98
+set osd_flight_dist_pos = 130
+set osd_warnings_pos = 2452
+set osd_avg_cell_voltage_pos = 44
+set osd_pit_ang_pos = 97
+set osd_rol_ang_pos = 65
+set osd_disarmed_pos = 267
+set osd_esc_tmp_pos = 163
+set osd_esc_rpm_pos = 150
+set osd_flip_arrow_pos = 3430
+set osd_core_temp_pos = 278
+set osd_displayport_device = MSP
+set osd_canvas_width = 50
+set osd_canvas_height = 18
