@@ -5,7 +5,7 @@
 #$ KEYWORDS: analog, nogps
 #$ AUTHOR: Comster
 
-#$ DESCRIPTION: Comster HD OSD Settings
+#$ DESCRIPTION: Comster Analog OSD Settings
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION:
 #$ DESCRIPTION: This OSD setup has the elements I care about most arranged to the sides of the screen.
@@ -19,6 +19,7 @@
 #$ DESCRIPTION: OSD Setup:
 #$ DESCRIPTION: -----------
 #$ DESCRIPTION: sample not currently available
+#$ DESCRIPTION: 
 #$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_warn_rssi_dbm = ON

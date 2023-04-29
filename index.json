@@ -3658,7 +3658,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/comster_Analog.txt",
-      "hash": "3f38737a87541f0d3de0c8d5a130aa4b1844db8dd05508116e64b541572faba9",
+      "hash": "d810816462df01dcf0007a12abf1d59231a3b3371f5fc3f6e62489efe0002916",
       "title": "Comster - Analog",
       "firmware_version": [
         "4.4"
@@ -3691,7 +3691,7 @@
     },
     {
       "fullPath": "presets/4.4/osd/defaults.txt",
-      "hash": "f684bc3c7088b201bee59ed13c88ae97a38ad7fabb26df2ab5f0345607176ae4",
+      "hash": "d594f4691e29d05efc4b37995b2f218fbe31f930157c3499755753214fa87254",
       "title": "Default 4.4 OSD settings",
       "firmware_version": [
         "4.4"
