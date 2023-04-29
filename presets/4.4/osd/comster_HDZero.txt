@@ -2,7 +2,7 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: hd hdzero nogps
+#$ KEYWORDS: hd, hdzero, nogps
 #$ AUTHOR: Comster
 
 #$ PARSER: MARKED

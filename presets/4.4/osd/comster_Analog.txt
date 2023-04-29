@@ -2,10 +2,8 @@
 #$ FIRMWARE_VERSION: 4.4
 #$ CATEGORY: OSD
 #$ STATUS: COMMUNITY
-#$ KEYWORDS: analog nogps
+#$ KEYWORDS: analog, nogps
 #$ AUTHOR: Comster
-
-#$ PARSER: MARKED
 
 #$ DESCRIPTION: I am a RC flight enthusiast.
 #$ INCLUDE: presets/4.4/osd/defaults.txt
