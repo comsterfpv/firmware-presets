@@ -8,7 +8,7 @@
 #$ PARSER: MARKED
 
 #$ DESCRIPTION: I am a RC flight enthusiast.
-#$ INCLUDE: presets/4.3/osd/defaults.txt
+#$ INCLUDE: presets/4.4/osd/defaults.txt
 
 set osd_warn_rssi_dbm = ON
 set osd_rssi_alarm = 15
