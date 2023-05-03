@@ -1,0 +1,35 @@
+#$ TITLE: Comster - Caddx Peanut Pinio Control
+#$ FIRMWARE_VERSION: 4.3
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: modes, caddx, peanut, pinio
+#$ AUTHOR: Comster
+
+#$ DESCRIPTION: Comster Caddx Peanut Pinio Control
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: This preset sets up pinio to trigger the Caddx Peanut button.
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: Information
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: Configures modes.
+#$ DESCRIPTION:
+#$ DESCRIPTION: EdgeTX:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: sample not currently available
+#$ DESCRIPTION: 
+
+
+#$ OPTION BEGIN (CHECKED): pinio on uart 4
+    resource SERIAL_TX 4 NONE
+    resource SERIAL_RX 4 NONE
+    resource PINIO 1 A00
+    set pinio_box = 40,255,255,255
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): camera control on aux 4
+    aux 3 40 6 1850 2050 0 0
+#$ OPTION END
+
