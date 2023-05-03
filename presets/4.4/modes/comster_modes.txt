@@ -1,0 +1,45 @@
+#$ TITLE: Comster - Modes with GPS
+#$ FIRMWARE_VERSION: 4.4
+#$ CATEGORY: MODES
+#$ STATUS: COMMUNITY
+#$ KEYWORDS: modes, gps
+#$ AUTHOR: Comster
+
+#$ DESCRIPTION: Comster Modes with GPS
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: These modes are what I use on my GPS quad.
+#$ DESCRIPTION: <br /><br />
+#$ DESCRIPTION:
+#$ DESCRIPTION: Information
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION:
+#$ DESCRIPTION: Configures modes.
+#$ DESCRIPTION:
+#$ DESCRIPTION: EdgeTX:
+#$ DESCRIPTION: -----------
+#$ DESCRIPTION: sample not currently available
+#$ DESCRIPTION: 
+
+
+aux 0 0 0 1875 2075 0 0
+
+#$ OPTION BEGIN (CHECKED): angle mode
+aux 1 1 1 1175 1425 0 0
+#$ OPTION END
+
+#$ OPTION BEGIN (CHECKED): beeper
+aux 2 13 3 1225 1700 0 0
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): gps rescue
+aux 4 46 3 1700 2100 0 0
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): pinio for camera
+  aux 3 40 6 1850 2050 0 0
+#$ OPTION END
+
+#$ OPTION BEGIN (UNCHECKED): turtle mode
+    aux 2 35 2 1700 2100 0 0
+#$ OPTION END
