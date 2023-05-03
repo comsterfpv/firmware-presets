@@ -3640,6 +3640,22 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.4/modes/comster_modes.txt",
+      "hash": "abb1f76a73c11160492314eada98a6442672781a1d59534535a4ba3e6f2fbaf3",
+      "title": "Comster - Modes with GPS",
+      "firmware_version": [
+        "4.4"
+      ],
+      "category": "MODES",
+      "status": "COMMUNITY",
+      "keywords": [
+        "modes",
+        "gps"
+      ],
+      "author": "Comster",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.4/osd/QuadMcFly_DJI_HD_OSD.txt",
       "hash": "1bdc587fd4223c8526a7954c0b44e7bfc98a8b9d556de729d24376d06e29f3be",
       "title": "QuadMcFly - DJI HD OSD",
